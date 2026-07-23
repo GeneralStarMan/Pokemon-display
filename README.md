@@ -1,3 +1,4 @@
+<img width="64" height="64" alt="38-ezgif com-resize" src="https://github.com/user-attachments/assets/3f66df4a-eb01-4940-bc0d-0f95dd9c59bc" />
 
 # Pokemon-display
 <img width="64" height="64" alt="evangelion_unit4-ezgif com-resize" src="https://github.com/user-attachments/assets/6979f7c2-ccdd-40bc-acae-5f349715f9f7" />
