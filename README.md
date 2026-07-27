@@ -1,5 +1,3 @@
-
-
 # Pokemon-display
 <img width="64" height="64" alt="evangelion_unit4-ezgif com-resize" src="https://github.com/user-attachments/assets/6979f7c2-ccdd-40bc-acae-5f349715f9f7" />
 <img width="64" height="64" alt="feliz" src="https://github.com/user-attachments/assets/4d56112c-0df2-4ac9-abe8-c1948f847a88" />
@@ -8,3 +6,4 @@
 <img width="64" height="53" alt="3" src="https://github.com/user-attachments/assets/90dece9c-6a06-459e-9e31-df29cdd1e71a" />
 <img width="74" height="73" alt="ezgif com-speed" src="https://github.com/user-attachments/assets/1c7cf5c6-e3cd-4a0a-beff-e043119a9b84" />
 <img width="40" height="38" alt="ezgif com-speed" src="https://github.com/user-attachments/assets/9b11f41e-ca57-40c5-8e5c-8eb3c9cec9ac" />
+<img width="64" height="64" alt="ezgif com-speed (1)" src="https://github.com/user-attachments/assets/60b440bc-d2bd-4e93-bba6-b97227ec27f8" />
